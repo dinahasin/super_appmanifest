@@ -4,7 +4,7 @@
   "apps": {
     "print": {
       "zip_url": "https://github.com/dinahasin/super_appmanifest/releases/download/v1.0.0/d4winprint.zip",
-      "sha256": "PUT_REAL_SHA256_HERE",
+      "sha256": "7552d9492ad451015660654a671d5450c4d543abea5f585dfaf14c9d65d5d439",
       "size_bytes": 0,
       "target_folder_name": "d4winprint",
       "executable_name": "d4winprint.exe",
@@ -18,7 +18,7 @@
     },
     "automations": {
       "zip_url": "https://github.com/dinahasin/super_appmanifest/releases/download/v1.0.0/d4win_automations.zip",
-      "sha256": "PUT_REAL_SHA256_HERE",
+      "sha256": "27e815a1f3eaf111f128f5f1c2ff164311e3975b09b218a4087bf765c5c55b5a",
       "size_bytes": 0,
       "target_folder_name": "d4win_automations",
       "executable_name": "d4win.exe",
