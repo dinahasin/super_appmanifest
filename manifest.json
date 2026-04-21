@@ -3,7 +3,7 @@
   "generated_at": "2026-03-30T00:00:00Z",
   "apps": {
     "print": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "zip_url": "https://github.com/dinahasin/super_appmanifest/releases/download/v1.0.0/d4winprint.zip",
       "sha256": "32e2805f1f40ec5a282a7f5839e7401706fa50fa803ff4c5794abe5a9765c631",
       "size_bytes": 0,
@@ -18,7 +18,7 @@
       }
     },
     "automations": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "zip_url": "https://github.com/dinahasin/super_appmanifest/releases/download/v1.0.0/d4win-automations.zip",
       "sha256": "4600a8cf6e579ce69d33bf103bf826773d341cbacc354a8e4d494e4b512f04d5",
       "size_bytes": 0,
